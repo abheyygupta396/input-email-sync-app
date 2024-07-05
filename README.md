@@ -39,6 +39,11 @@ To create the project build, run the following command:
 
 `npm run build`
 
+## Deployed URL:
+
+`https://input-email-sync-app.vercel.app/`
+
+
 
 
 
