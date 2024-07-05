@@ -1,4 +1,4 @@
-# react-blog-app-assignment
+# input-email-sync-app-assignment
 
 A project for Inputs-Email-Sync-App which includes real time state updates when user updates the subject lines... Make sure you have Node.js and npm/yarn installed before getting started.
 
